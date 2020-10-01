@@ -1,5 +1,22 @@
 # Ticket Analysis App
 
+Ticket Analysis is an mobile community application which offers its users the following features:
+
+1. reporting a ticket.
+2. getting a probability chance for  a ticket based on a location, time duration,date and weather.
+3. getting a recommendation with a lower probability for a ticket nearby where you wanted to park      with an option to navigate to that location in waze.
+4. showing a graph that contains the different amount of ticket that were reported in different hours      in the day, the information  showed  defends on the duration back the users chooses.
+
+Front End:   
+The front end was written in react native and uses google maps, TomTom API in order to show auto search options, and axios API in order to perform get and post HTTP requests.
+
+Back End:  
+
+The backend was written in python, uses libraries like pandas and a data MongoDB database in order to do analysis computations.
+In addition it uses Flask in order to receive get and post requests from the front end.
+
+---
+
 ### Home page
 
 <img src="https://github.com/shayei/Ticket-Analysis/blob/master/images/home-page.jpeg" width="40%" height="40%">
