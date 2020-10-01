@@ -8,7 +8,7 @@ Ticket Analysis is an mobile community application which offers its users the fo
 4. showing a graph that contains the different amount of ticket that were reported in different hours      in the day, the information  showed  defends on the duration back the users chooses.
 
 Front End:   
-The front end was written in react native and uses google maps, TomTom API in order to show auto search options, and axios API in order to perform get and post HTTP requests.
+The front end was written in react native and uses google maps, TomTom API in order to show auto complete search options, and axios API in order to perform get and post HTTP requests.
 
 Back End:  
 
